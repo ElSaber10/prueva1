@@ -1,6 +1,6 @@
 import java.util.*;
 import java.util.Random;
-public class Ejercicio4 {
+public class hola {
 	public static void main(String[] args){
 	int datos[] = new int [21] ;
 	int temporal;
@@ -20,4 +20,5 @@ public class Ejercicio4 {
 	}
 	System.out.println("Posicion mayor " + datos[0]);
 }
+
 }
